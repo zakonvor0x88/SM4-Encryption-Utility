@@ -235,11 +235,6 @@ SM4-Encryption-Utility/
 
 ---
 
-## 🌟 Подяки
-
-- Дякуємо розробникам [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) за чудовий GUI фреймворк
-- Стандарт SM4 описаний у [GB/T 32907-2016](https://www.oscca.gov.cn/)
-
 ---
 
 <div align="center">
