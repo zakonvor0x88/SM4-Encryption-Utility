@@ -118,8 +118,6 @@ python3 "sm4 gui.py"
 
 ### 🌐 Перемикання мови
 
-<img src="screenshots/language-switcher.png" alt="Language Switcher" width="400"/>
-
 Натисніть кнопку **🌐 EN** або **🌐 UA** у правому верхньому куті для перемикання мови.
 
 ---
@@ -143,10 +141,6 @@ python3 "sm4 gui.py"
 - **HEX** → Шістнадцятковий рядок (0-9, a-f)
 
 ---
-
-### 📁 Режим "Файли"
-
-<img src="screenshots/file-mode.png" alt="File Mode" width="600"/>
 
 #### Режими обробки файлів:
 
@@ -237,9 +231,7 @@ SM4-Encryption-Utility/
 
 **Roman Sadovskyi**
 
-- 📧 Email: your.email@example.com
-- 💼 LinkedIn: [your-linkedin](https://linkedin.com/in/your-profile)
-- 🐱 GitHub: [@your-username](https://github.com/your-username)
+- 📧 Email romansadovskiy21@gmail.com
 
 ---
 
