@@ -12,9 +12,7 @@
 
 ---
 
-<img src="/home/r8s8/Зображення/Screenshots/Screenshot1.png" alt="SM4 Utility Interface" width="800"/>
-<img src="/home/r8s8/Зображення/Screenshots/Screenshot2.png" alt="SM4 Utility Interface" width="800"/>
-<img src="/home/r8s8/Зображення/Screenshots/Screenshot2.png" alt="SM4 Utility Interface" width="800"/>
+<img src="screenshots/main-interface.png" alt="SM4 Utility - Main Interface" width="800"/>
 
 *Сучасний графічний інтерфейс з підтримкою двох мов*
 
